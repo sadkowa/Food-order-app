@@ -1,6 +1,6 @@
 # Food order app
 
-Aplikacja stworzona na podstawie kurs Academind.
+Aplikacja stworzona na podstawie kursu Academind.
 Wykorzystuje React, Redux toolkit.
 
 ## Github pages
