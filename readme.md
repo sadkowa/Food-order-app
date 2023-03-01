@@ -2,11 +2,10 @@
 
 Aplikacja stworzona na podstawie kursu Academind.
 
-
 ## Github pages
 
 Strona do wglądu pod [linkiem](https://google.com)
 
 ### Użyte technologie
 
-React, Redux toolkit
+React, Redux toolkit, HTML, CSS, JS
